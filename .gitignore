@@ -1,0 +1,4 @@
+data
+backend/node_modules/
+discordbot/.env
+.env
