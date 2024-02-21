@@ -19,6 +19,11 @@ cd ..
 docker compose up --build
 ```
 
+2. Verify the db
+
+Login to localhost:5050
+username: admin@example.com , pw: admin
+
 ### Instrukce a nastavní pro Custom GPT
 
 ```txt
